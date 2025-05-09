@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="started_title">Hello!</string>
+    <string name="started_subtitle">
+        <b>Login</b>, if you already have an account.\n
+        Don\'t have an account? <b>Register</b>
+    </string>
+    <string name="illustration_img">Illustration_Img</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">
+        <font color="#3F51B5"><b>Login</b></font>, if you already have an account.
+    </string>
+    <string name="login_email">Your email</string>
+    <string name="login_password">Your password</string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+    <string name="login_no_acc">
+        Don\'t have an account?
+        <font color="#3F51B5"><b> Register</b></font>
+    </string>
+    <string name="register_title">Create an account</string>
+    <string name="register_subtitle">
+        <font color="#3F51B5"><b>Register</b></font>, if you don\'t have an account.
+    </string>
+    <string name="register_fullname">Your fullname</string>
+    <string name="register_email">Your email</string>
+    <string name="register_username">Your username</string>
+    <string name="register_con_password">Confirm your password</string>
+    <string name="register_have_acc">
+        Already have an account?
+        <font color="#3F51B5"><b> Login</b></font>
+    </string>
+    <string name="btn_logout">Logout</string>
+    <string name="ha">
+        あ\na
+    </string>
+    <string name="hi">
+        い\ni
+    </string>
+    <string name="hu">
+        う\nu
+    </string>
+    <string name="he">
+        え\ne
+    </string>
+    <string name="ho">
+        お\no
+    </string>
+    <string name="hka">
+        か\nka
+    </string>
+    <string name="hki">
+        き\nki
+    </string>
+    <string name="hku">
+        く\nku
+    </string>
+    <string name="hke">
+        け\nke
+    </string>
+    <string name="hko">
+        こ\nko
+    </string>
+    <string name="hsa">
+        さ\nsa
+    </string>
+    <string name="hsi">
+        し\nshi
+    </string>
+    <string name="hsu">
+        す\nsu
+    </string>
+    <string name="hse">
+        せ\nse
+    </string>
+    <string name="hso">
+        そ\nso
+    </string>
+    <string name="hta">
+        た\nta
+    </string>
+    <string name="hti">
+        ち\nchi
+    </string>
+    <string name="htu">
+        つ\ntsu
+    </string>
+    <string name="hte">
+        て\nte
+    </string>
+    <string name="hto">
+        と\nto
+    </string>
+    <string name="hna">
+        な\nna
+    </string>
+    <string name="hni">
+        に\nni
+    </string>
+    <string name="hnu">
+        ぬ\nnu
+    </string>
+    <string name="hne">
+        ね\nne
+    </string>
+    <string name="hno">
+        の\nno
+    </string>
+    <string name="hha">
+        は\nha
+    </string>
+    <string name="hhi">
+        ひ\nhi
+    </string>
+    <string name="hhu">
+        ふ\nfu
+    </string>
+    <string name="hhe">
+        へ\nhe
+    </string>
+    <string name="hho">
+        ほ\nho
+    </string>
+    <string name="hma">
+        ま\nma
+    </string>
+    <string name="hmi">
+        み\nmi
+    </string>
+    <string name="hmu">
+        む\nmu
+    </string>
+    <string name="hme">
+        め\nme
+    </string>
+    <string name="hmo">
+        も\nmo
+    </string>
+    <string name="hya">
+        や\nya
+    </string>
+    <string name="hyu">
+        ゆ\nyu
+    </string>
+    <string name="hyo">
+        よ\nyo
+    </string>
+    <string name="hra">
+        ら\nra
+    </string>
+    <string name="hri">
+        り\nri
+    </string>
+    <string name="hru">
+        る\nru
+    </string>
+    <string name="hre">
+        れ\nre
+    </string>
+    <string name="hro">
+        ろ\nro
+    </string>
+    <string name="hwa">
+        わ\nwa
+    </string>
+    <string name="hwo">
+        を\no
+    </string>
+    <string name="hn">
+        ん\nn
+    </string>
+</resources>

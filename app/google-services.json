@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "213198400903",
+    "firebase_url": "https://edugame-11260-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "edugame-11260",
+    "storage_bucket": "edugame-11260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213198400903:android:6ee4999029262bd1b4f722",
+        "android_client_info": {
+          "package_name": "com.example.edgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_w4C5MSwBEMHwzqFCLrZ3gevT8scDwkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213198400903:android:cf65b37d5f1c857eb4f722",
+        "android_client_info": {
+          "package_name": "com.example.edugame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_w4C5MSwBEMHwzqFCLrZ3gevT8scDwkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213198400903:android:951a6a6ae07a6b3fb4f722",
+        "android_client_info": {
+          "package_name": "com.ghozi.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_w4C5MSwBEMHwzqFCLrZ3gevT8scDwkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
